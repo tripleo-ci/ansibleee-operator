@@ -1,6 +1,6 @@
 apiVersion: redhat.com/v1alpha1
 kind: AnsibleEE
 metadata:
-  name: ansibleee-sample
+  name: ansibleee-test
 spec:
   # TODO(user): Add fields here
